@@ -1,6 +1,6 @@
 # linux_hacking
 a simple tool to grape a linux machin ip it like a virus with discord WEBHOOK
-# git colne https://github.com/SHADOWGAMER8966/linux_hacking.git
+# git colne https://github.com/F7P-SHADOW/linux_hacking.git
 # cd linux_hacking
 # nano linux-hacking.py
 # change the WEBHOOK url with yours WEBHOOK
