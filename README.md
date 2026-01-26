@@ -96,6 +96,8 @@ If you want to make it more powerful:
 
 This project is released under the **Unlicense** (public domain).
 
+Have any problem contact me Z3R0D4Y@tutamail.com
+
 ```
 This is free and unlicensed software. See https://unlicense.org/
 ```
