@@ -56,16 +56,22 @@ Unauthorized scanning is illegal and unethical. The author is not responsible fo
 
 
 ### Install Nmap (Linux)
-  bash
-  sudo apt update
+  ```
+  sudo apt update && upgrade -y
+  ```
+  ```
   sudo apt install nmap
-  📦 Installation (Recommended)
+  ```
+
+## 📦 Installation (Recommended)
+  ```
   git clone <your-repo-link>
   cd <your-tool-folder>
   python3 -m venv venv
   source venv/bin/activate
   pip install -r requirements.txt
   pip install -e .
+  ```
 
 After installation, the tool can be run globally:
 
